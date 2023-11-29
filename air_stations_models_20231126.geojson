@@ -1,6 +1,5 @@
 {
 "type": "FeatureCollection",
-"name": "air_stations_models_20231126",
 "features": [
 { "type": "Feature", "properties": { "model_name": "Block_Sensors", "z_round": 3.25, "rotz": -65.0, "zrot_edit": 65.0 }, "geometry": { "type": "Point", "coordinates": [ 23.321363288706223, 42.682948551206294, 4729799.167999999597669 ] } },
 { "type": "Feature", "properties": { "model_name": "Solar_panel", "z_round": 4.11, "rotz": -10.0, "zrot_edit": 10.0 }, "geometry": { "type": "Point", "coordinates": [ 23.321363288706223, 42.682948551206294, 4729799.167999999597669 ] } },
